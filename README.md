@@ -109,13 +109,20 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
 </tbody>
 </table>
 
-### Schemat oceniania (suma Xp):
+### Schemat oceniania (suma 80p):
+- prace domowe (40p = 4 x 10p)
+- projekt (40p)
+
+Aby zaliczyć laboratoria, należy uzyskać ponad 40 punktów ogółem, w tym co najmniej 20 punktów z projektu.
 
 
 | Ocena |  3 | 3.5 | 4 | 4.5 | 5 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Punkty   | (45, 54] | (54, 63] | (63, 72] | (72, 81] | (81, ∞) |
+| Punkty   | (40, 48] | (48, 56] | (56, 64] | (64, 72] | (72, ∞) |
 
-| Grade |  | 3 | 3.5 | 4 | 4.5 | 5 |
-|:---:| :---: |:---:|:---:|:---:|:---:|:---:|
-| Score |  | (50, 60] | (60, 70] | (70, 80] | (80, 90] | (90, ∞) |
+### Literatura
+
+Wybrane rozdziały z [James, G., Witten, D., Hastie, T., Tibshirani, R., Taylor, J. (2023). An Introduction to Statistical Learning with Applications in Python, Springer Science+Business Media, New York. https://www.statlearning.com/]()
+
+
+
