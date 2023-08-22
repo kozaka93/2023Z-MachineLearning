@@ -73,7 +73,7 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
   <tr>
     <td>10</td>
     <td></td>
-    <td>Projekt - motywacja, opis, tematyka </td>
+    <td><i>Projekt - motywacja, opis, tematyka</i> </td>
     <td>PD3 (10p)</td>
   </tr>
   <tr>
