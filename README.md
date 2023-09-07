@@ -18,91 +18,91 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
 <tbody>
   <tr>
     <td>1</td>
-    <td></td>
+    <td>04-10</td>
     <td><a href=https://github.com/kozaka93/2023Z-MachineLearning/tree/main/labs/lab1>Drzewa decyzyjne 1</a></td>
     <td></td>
   </tr>
   <tr>
     <td>2</td>
-    <td></td>
+    <td>11-10</td>
     <td>Drzewa decyzyjne&nbsp;&nbsp;2</td>
     <td></td>
   </tr>
   <tr>
     <td>3</td>
-    <td></td>
+    <td>18-10</td>
     <td>Ocena dokładności, kroswalidacja, ROC, AUC</td>
     <td></td>
   </tr>
   <tr>
     <td>4</td>
-    <td></td>
+    <td>25-10</td>
     <td>Regresja logistyczna </td>
     <td>PD1 (10p)</td>
   </tr>
   <tr>
     <td>5</td>
-    <td></td>
+    <td>08-11</td>
     <td>Regularyzjacja regresji liniowej</td>
     <td></td>
   </tr>
   <tr>
     <td>6</td>
-    <td></td>
+    <td>15-11</td>
     <td>LDA, QDA, Naiwny Bayes</td>
     <td></td>
   </tr>
   <tr>
     <td>7</td>
-    <td></td>
+    <td>22-11</td>
     <td>K najbliższych sąsiadów (kNN)</td>
     <td>PD2 (10p)</td>
   </tr>
   <tr>
     <td>8</td>
-    <td></td>
+    <td>29-11</td>
     <td>Przygotowanie danych: wartości odstające, braki danych</td>
     <td></td>
   </tr>
   <tr>
     <td>9</td>
-    <td></td>
+    <td>06-12</td>
     <td>Selekcja zmiennych, PCA</td>
     <td></td>
   </tr>
   <tr>
     <td>10</td>
-    <td></td>
+    <td>13-12</td>
     <td><i>Projekt - motywacja, opis, tematyka</i> </td>
     <td>PD3 (10p)</td>
   </tr>
   <tr>
     <td>11</td>
-    <td></td>
+    <td>20-12</td>
     <td>Komitety klasyfikatorów</td>
     <td></td>
   </tr>
   <tr>
     <td>12</td>
-    <td></td>
+    <td>03-01</td>
     <td>Sieci neuronowe</td>
     <td></td>
   </tr>
   <tr>
     <td>13</td>
-    <td></td>
+    <td>10-01</td>
     <td>Analiza skupień: k-średnich</td>
     <td></td>
   </tr>
   <tr>
     <td>14</td>
-    <td></td>
+    <td>17-01</td>
     <td>Analiza skupień: metody hierarchiczne</td>
     <td></td>
   </tr>
   <tr>
     <td>15</td>
-    <td></td>
+    <td>24-01</td>
     <td>Prezentacja wyników projektu</td>
     <td>PD4 (10p)<br>P (40p)</td>
   </tr>
