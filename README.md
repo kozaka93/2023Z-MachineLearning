@@ -19,13 +19,13 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
   <tr>
     <td>1</td>
     <td>04-10</td>
-    <td><a href=https://github.com/kozaka93/2023Z-MachineLearning/tree/main/labs/lab1>Drzewa decyzyjne 1</a></td>
+    <td><a href="https://github.com/kozaka93/2023Z-MachineLearning/tree/main/labs/lab1">Drzewa decyzyjne 1</a></td>
     <td></td>
   </tr>
   <tr>
     <td>2</td>
     <td>11-10</td>
-    <td>Drzewa decyzyjne&nbsp;&nbsp;2</td>
+    <td><a href="https://github.com/kozaka93/2023Z-MachineLearning/tree/main/labs/lab2">Drzewa decyzyjne 2</a></td>
     <td></td>
   </tr>
   <tr>
