@@ -1,1 +1,1 @@
-#### Rozwiązania pracy domowej 1
+#### Praca domowa 1
