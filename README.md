@@ -31,7 +31,7 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
   <tr>
     <td>3</td>
     <td>18-10</td>
-    <td>Ocena dokładności, kroswalidacja, ROC, AUC</td>
+    <td><a href="https://github.com/kozaka93/2023Z-MachineLearning/tree/main/labs/lab3">Ocena dokładności, kroswalidacja, ROC, AUC</a></td>
     <td></td>
   </tr>
   <tr>
