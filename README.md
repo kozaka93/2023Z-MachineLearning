@@ -37,13 +37,13 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
   <tr>
     <td>4</td>
     <td>25-10</td>
-    <td>Regresja logistyczna </td>
+    <td><a href="https://github.com/kozaka93/2023Z-MachineLearning/tree/main/labs/lab4">Regresja logistyczna</a> </td>
     <td><a href="https://github.com/kozaka93/2023Z-MachineLearning/tree/main/homeworks/PD1">PD1</a> (10p)</td>
   </tr>
   <tr>
     <td>5</td>
     <td>08-11</td>
-    <td><a href="https://github.com/kozaka93/2023Z-MachineLearning/tree/main/labs/lab4">Regularyzjacja regresji liniowej</a></td>
+    <td>Regularyzjacja regresji liniowej</td>
     <td></td>
   </tr>
   <tr>
