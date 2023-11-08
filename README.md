@@ -43,19 +43,19 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
   <tr>
     <td>5</td>
     <td>08-11</td>
-    <td><a href="https://github.com/kozaka93/2023Z-MachineLearning/tree/main/labs/lab5">Regularyzjacja regresji liniowej</a></td>
+    <td><a href="https://github.com/kozaka93/2023Z-MachineLearning/tree/main/labs/lab5">Regularyzjacja regresji liniowej 1</a></td>
     <td></td>
   </tr>
   <tr>
     <td>6</td>
     <td>15-11</td>
-    <td>LDA, QDA, Naiwny Bayes</td>
+    <td>Regularyzjacja regresji liniowej 2, SVM</td>
     <td></td>
   </tr>
   <tr>
     <td>7</td>
     <td>22-11</td>
-    <td>K najbliższych sąsiadów (kNN)</td>
+    <td>LDA, QDA, Naiwny Bayes, k najbliższych sąsiadów (kNN)</td>
     <td>PD2 (10p)</td>
   </tr>
   <tr>
