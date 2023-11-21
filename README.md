@@ -55,13 +55,13 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
   <tr>
     <td>7</td>
     <td>22-11</td>
-    <td>LDA, QDA, Naiwny Bayes, k najbliższych sąsiadów (kNN)</td>
+    <td><a href="https://github.com/kozaka93/2023Z-MachineLearning/tree/main/labs/lab7">LDA, QDA</a></td>
     <td><a href="https://github.com/kozaka93/2023Z-MachineLearning/tree/main/homeworks/PD2">PD2</a> (10p)</td>
   </tr>
   <tr>
     <td>8</td>
     <td>29-11</td>
-    <td>Przygotowanie danych: wartości odstające, braki danych</td>
+    <td>Naiwny Bayes, k najbliższych sąsiadów (kNN), przygotowanie danych: wartości odstające, braki danych</td>
     <td></td>
   </tr>
   <tr>
