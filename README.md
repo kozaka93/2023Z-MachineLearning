@@ -61,13 +61,13 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
   <tr>
     <td>8</td>
     <td>29-11</td>
-    <td>Naiwny Bayes, k najbliższych sąsiadów (kNN), przygotowanie danych: wartości odstające, braki danych</td>
+    <td><a href="https://github.com/kozaka93/2023Z-MachineLearning/tree/main/labs/lab8">Naiwny Bayes, k najbliższych sąsiadów (kNN)</a></td>
     <td></td>
   </tr>
   <tr>
     <td>9</td>
     <td>06-12</td>
-    <td>Selekcja zmiennych, PCA</td>
+    <td>Przygotowanie danych: wartości odstające, braki danych, selekcja zmiennych, PCA</td>
     <td></td>
   </tr>
   <tr>
