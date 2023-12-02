@@ -67,20 +67,20 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
   <tr>
     <td>9</td>
     <td>06-12</td>
-    <td>Przygotowanie danych: wartości odstające, braki danych, selekcja zmiennych, PCA</td>
+    <td><a href="https://github.com/kozaka93/2023Z-MachineLearning/tree/main/labs/lab9">Przygotowanie danych: wartości odstające, braki danych, selekcja zmiennych</a></td>
     <td></td>
   </tr>
   <tr>
     <td>10</td>
     <td>13-12</td>
     <td><i>Projekt - motywacja, opis, tematyka</i> </td>
-    <td>PD3 (10p)</td>
+    <td></td>
   </tr>
   <tr>
     <td>11</td>
     <td>20-12</td>
     <td>Komitety klasyfikatorów</td>
-    <td></td>
+    <td><a href="https://github.com/kozaka93/2023Z-MachineLearning/tree/main/homeworks/PD3">PD3</a> (10p)</td>
   </tr>
   <tr>
     <td>12</td>
