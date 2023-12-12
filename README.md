@@ -73,7 +73,7 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
   <tr>
     <td>10</td>
     <td>13-12</td>
-    <td>Selekcja zmiennych, PCA <br><i>Projekt - motywacja, opis, tematyka</i> </td>
+    <td><a href="https://github.com/kozaka93/2023Z-MachineLearning/tree/main/labs/lab10">Selekcja zmiennych, PCA </a><br><i><a href="https://github.com/kozaka93/2023Z-MachineLearning/tree/main/project">Projekt - motywacja, opis, tematyka</a></i> </td>
     <td></td>
   </tr>
   <tr>
