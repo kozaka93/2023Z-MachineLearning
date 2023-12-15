@@ -79,7 +79,7 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
   <tr>
     <td>11</td>
     <td>20-12</td>
-    <td>Komitety klasyfikatorów</td>
+    <td><a href="https://github.com/kozaka93/2023Z-MachineLearning/tree/main/labs/lab11">Komitety klasyfikatorów</a></td>
     <td><a href="https://github.com/kozaka93/2023Z-MachineLearning/tree/main/homeworks/PD3">PD3</a> (10p)</td>
   </tr>
   <tr>
