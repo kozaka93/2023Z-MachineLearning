@@ -91,7 +91,7 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
   <tr>
     <td>13</td>
     <td>10-01</td>
-    <td>Analiza skupień: k-średnich</td>
+    <td><a href="https://github.com/kozaka93/2023Z-MachineLearning/tree/main/labs/lab13">Analiza skupień: k-średnich</a></td>
     <td></td>
   </tr>
   <tr>
@@ -104,7 +104,7 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
     <td>15</td>
     <td>24-01</td>
     <td>Prezentacja wyników projektu</td>
-    <td>PD4 (10p)<br>P (40p)</td>
+    <td><a href=https://github.com/kozaka93/2023Z-MachineLearning/tree/main/homeworks/PD4>PD4</a> (10p)<br>P (40p)</td>
   </tr>
 </tbody>
 </table>
