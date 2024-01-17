@@ -97,7 +97,7 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
   <tr>
     <td>14</td>
     <td>17-01</td>
-    <td>Analiza skupień: metody hierarchiczne</td>
+    <td><a href="https://github.com/kozaka93/2023Z-MachineLearning/tree/main/labs/lab14">Analiza skupień: metody hierarchiczne, DBSCAN</a></td>
     <td></td>
   </tr>
   <tr>
